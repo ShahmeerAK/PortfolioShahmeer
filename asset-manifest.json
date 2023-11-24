@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolioShahmeer/static/css/main.bb1ac37f.css",
-    "main.js": "/portfolioShahmeer/static/js/main.575125b4.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolioShahmeer/static/js/787.1ed0c42c.chunk.js",
-    "static/media/2.jpg": "/portfolioShahmeer/static/media/2.4d301f0e8622b90c8da2.jpg",
-    "static/media/p1.png": "/portfolioShahmeer/static/media/p1.1ef340872e883c61e130.png",
-    "static/media/p4.png": "/portfolioShahmeer/static/media/p4.080b0cf361199d563f70.png",
-    "static/media/pic2.png": "/portfolioShahmeer/static/media/pic2.a9f09f06f808a7c5adfd.png",
-    "static/media/p5.jpg": "/portfolioShahmeer/static/media/p5.113c6ad4642f5f59e9c4.jpg",
-    "static/media/p2.jpg": "/portfolioShahmeer/static/media/p2.3bae1e5b9d490ad5f24d.jpg",
-    "static/media/p3.jpg": "/portfolioShahmeer/static/media/p3.43322e0251ec10162cd9.jpg",
-    "index.html": "/portfolioShahmeer/index.html",
-    "main.bb1ac37f.css.map": "/portfolioShahmeer/static/css/main.bb1ac37f.css.map",
-    "main.575125b4.js.map": "/portfolioShahmeer/static/js/main.575125b4.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolioShahmeer/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/PortfolioShahmeer/static/css/main.bb1ac37f.css",
+    "main.js": "/PortfolioShahmeer/static/js/main.cf118a5b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioShahmeer/static/js/787.1ed0c42c.chunk.js",
+    "static/media/2.jpg": "/PortfolioShahmeer/static/media/2.4d301f0e8622b90c8da2.jpg",
+    "static/media/p1.png": "/PortfolioShahmeer/static/media/p1.1ef340872e883c61e130.png",
+    "static/media/p4.png": "/PortfolioShahmeer/static/media/p4.080b0cf361199d563f70.png",
+    "static/media/pic2.png": "/PortfolioShahmeer/static/media/pic2.a9f09f06f808a7c5adfd.png",
+    "static/media/p5.jpg": "/PortfolioShahmeer/static/media/p5.113c6ad4642f5f59e9c4.jpg",
+    "static/media/p2.jpg": "/PortfolioShahmeer/static/media/p2.3bae1e5b9d490ad5f24d.jpg",
+    "static/media/p3.jpg": "/PortfolioShahmeer/static/media/p3.43322e0251ec10162cd9.jpg",
+    "index.html": "/PortfolioShahmeer/index.html",
+    "main.bb1ac37f.css.map": "/PortfolioShahmeer/static/css/main.bb1ac37f.css.map",
+    "main.cf118a5b.js.map": "/PortfolioShahmeer/static/js/main.cf118a5b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioShahmeer/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb1ac37f.css",
-    "static/js/main.575125b4.js"
+    "static/js/main.cf118a5b.js"
   ]
 }
