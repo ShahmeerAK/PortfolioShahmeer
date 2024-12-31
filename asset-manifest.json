@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/PortfolioShahmeer/static/css/main.bb1ac37f.css",
-    "main.js": "/PortfolioShahmeer/static/js/main.cf118a5b.js",
+    "main.css": "/PortfolioShahmeer/static/css/main.01c5c656.css",
+    "main.js": "/PortfolioShahmeer/static/js/main.24405440.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioShahmeer/static/js/787.1ed0c42c.chunk.js",
-    "static/media/2.jpg": "/PortfolioShahmeer/static/media/2.4d301f0e8622b90c8da2.jpg",
+    "static/media/i4.jpg": "/PortfolioShahmeer/static/media/i4.96e9cee13f53eec7f825.jpg",
+    "static/media/i3.jpg": "/PortfolioShahmeer/static/media/i3.9c5d77534e97b8abcb9c.jpg",
+    "static/media/i1.jpg": "/PortfolioShahmeer/static/media/i1.cf4d2a78322b0464d2e5.jpg",
+    "static/media/i2.jpg": "/PortfolioShahmeer/static/media/i2.4c9871ad40642b6ff1cb.jpg",
+    "static/media/i6.jpg": "/PortfolioShahmeer/static/media/i6.0838995d55e9e3813f2e.jpg",
+    "static/media/i5.jpg": "/PortfolioShahmeer/static/media/i5.18d41cb751b77d5c28e2.jpg",
     "static/media/p1.png": "/PortfolioShahmeer/static/media/p1.1ef340872e883c61e130.png",
+    "static/media/l4.png": "/PortfolioShahmeer/static/media/l4.57877634915418dd316f.png",
+    "static/media/l1.png": "/PortfolioShahmeer/static/media/l1.7285742c261400b4a42b.png",
+    "static/media/l2.png": "/PortfolioShahmeer/static/media/l2.f63d77780774d249695c.png",
+    "static/media/l5.png": "/PortfolioShahmeer/static/media/l5.ec36bcf0b1bdd5674e06.png",
     "static/media/p4.png": "/PortfolioShahmeer/static/media/p4.080b0cf361199d563f70.png",
+    "static/media/l6.png": "/PortfolioShahmeer/static/media/l6.cb27064fd86c96628f3b.png",
+    "static/media/2.jpg": "/PortfolioShahmeer/static/media/2.37a2908834eb3b46c1fc.jpg",
+    "static/media/l3.png": "/PortfolioShahmeer/static/media/l3.ba74eeb303f0e8e27b8d.png",
     "static/media/pic2.png": "/PortfolioShahmeer/static/media/pic2.a9f09f06f808a7c5adfd.png",
     "static/media/p5.jpg": "/PortfolioShahmeer/static/media/p5.113c6ad4642f5f59e9c4.jpg",
     "static/media/p2.jpg": "/PortfolioShahmeer/static/media/p2.3bae1e5b9d490ad5f24d.jpg",
     "static/media/p3.jpg": "/PortfolioShahmeer/static/media/p3.43322e0251ec10162cd9.jpg",
     "index.html": "/PortfolioShahmeer/index.html",
-    "main.bb1ac37f.css.map": "/PortfolioShahmeer/static/css/main.bb1ac37f.css.map",
-    "main.cf118a5b.js.map": "/PortfolioShahmeer/static/js/main.cf118a5b.js.map",
+    "main.01c5c656.css.map": "/PortfolioShahmeer/static/css/main.01c5c656.css.map",
+    "main.24405440.js.map": "/PortfolioShahmeer/static/js/main.24405440.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioShahmeer/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb1ac37f.css",
-    "static/js/main.cf118a5b.js"
+    "static/css/main.01c5c656.css",
+    "static/js/main.24405440.js"
   ]
 }
